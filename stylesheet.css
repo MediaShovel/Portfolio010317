@@ -1,5 +1,5 @@
 body {
-  font-family: "Alber New Web", Helvetica, sans-serif; }
+  font-family: "Modesto Expanded", Georgia, serif; }
 
 .wrapper {
   width: 1440px;
@@ -7,7 +7,7 @@ body {
   margin: 0 auto; }
 
 #banner {
-  background-image: url(/Images/MediaShovelBanner.png);
+  background-image: url(Images/MediaShovelBanner.png);
   background-repeat: no-repeat;
   background-size: cover; }
   #banner header {
@@ -18,3 +18,5 @@ body {
     font-size: 1.35rem;
     float: left;
     margin: 0; }
+    #banner #logo span {
+      font-family: "Bungee", Helvetica, sans-serif; }
