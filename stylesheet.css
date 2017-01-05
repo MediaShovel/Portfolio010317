@@ -1,8 +1,20 @@
-body{
-  background-color: darkgrey;
-  color: chocolate;
-}
+body {
+  font-family: "Alber New Web", Helvetica, sans-serif; }
 
-p1{
-  text-align: center;
-}
+.wrapper {
+  width: 1440px;
+  max-width: 90%;
+  margin: 0 auto; }
+
+#banner {
+  background-image: url(/Images/MediaShovelBanner.png);
+  background-repeat: no-repeat;
+  background-size: cover; }
+  #banner header {
+    padding: 2rem 0; }
+  #banner #logo {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 1.35rem;
+    float: left;
+    margin: 0; }
