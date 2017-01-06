@@ -2,7 +2,8 @@
   box-sizing: border-box; }
 
 body {
-  font-family: "Bree-Serif", Georgia, san-serif; }
+  font-family: "Bree-Serif", Georgia, san-serif;
+  -webkit-font-smoothing: antialiased; }
 
 .wrapper {
   width: 1440px;
